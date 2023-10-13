@@ -1,0 +1,18 @@
+.accordion_content{
+    overflow:hidden;
+    max-height: 100px;
+
+}
+
+.buttonClass{
+
+    width: 100%;
+}
+
+
+
+.heightToggle{
+
+    max-height: 0px;
+
+}
